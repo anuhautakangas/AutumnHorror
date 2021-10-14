@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: bg
+    uniqueID: 1437265387
+    locked: 0
+  - name: midground
+    uniqueID: 2600580173
+    locked: 0
+  - name: platforms
+    uniqueID: 729143429
+    locked: 0
+  - name: environment
+    uniqueID: 74616173
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
